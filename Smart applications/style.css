@@ -209,6 +209,14 @@ main {
   border-radius: var(--radius);
   margin-bottom: 2.5rem;
 }
+.container h3 {
+  background: var(--clr-red-dark);
+  color: var(--clr-white);
+  padding: 1rem;
+  border-radius: var(--radius);
+  margin-bottom: 2.5rem;
+}
+
 .color {
   color: var(--clr-primary-5);
 }
